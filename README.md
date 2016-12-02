@@ -1,1 +1,1 @@
-UDK Pawn Class as an example of my work.
+This is repo for UDK classes and my game. It is intended to show my coding chops and knowledge in lieu of recent work experience. It also may help the wayward soul who is still curious about legacy UnrealScript for the UDK engine. 
